@@ -1,6 +1,3 @@
-## Application Service > Maps > API 가이드
-
-Maps 서비스를 사용하는 데 필요한 API를 설명합니다.
 
 ## API 공통 정보
 

@@ -1,12 +1,5 @@
-## Application Service > Maps > Android 사용 가이드
 
-Android 기반으로 Maps 서비스를 사용하는 방법을 설명합니다.
-
-## API 공통 정보
-
-### 사전 준비
-- API를 사용하려면 앱키가 필요합니다.
-- 앱키는 **TOAST Console** 상단 **URL & Appkey** 메뉴에서 확인할 수 있습니다.
+## test
 
 ### 요청 공통 정보
 
